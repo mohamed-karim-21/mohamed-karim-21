@@ -52,6 +52,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimskeet&theme=light" />
 </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karimskeet&show_icons=true&locale=en" alt="karimskeet" /></p>
+<a href="https://github.com/karimskeet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=karimskeet&show_icons=true&theme=light&line_height=40" alt="karimskeet's github stats"/>
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karimskeet&" alt="karimskeet" /></p>
