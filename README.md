@@ -26,7 +26,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimskeet&label=Profile%20views&color=0e75b6&style=flat" alt="karimskeet" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karimskeet" alt="karimskeet" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/karimskeet" target="blank"><img src="https://img.shields.io/twitter/follow/karimskeet?logo=twitter&style=for-the-badge" alt="karimskeet" /></a> </p>
 
