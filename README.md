@@ -51,8 +51,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/karimskeet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimskeet&theme=dark" />
 </a>
-
+<br>
 <a href="https://github.com/karimskeet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=karimskeet&show_icons=true&theme=light&line_height=40" alt="karimskeet's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=karimskeet&show_icons=true&theme=dark&line_height=40" alt="karimskeet's github stats"/>
 </a>
 
