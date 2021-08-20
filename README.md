@@ -37,9 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **medkarim.pro@gmail.com**
 
-<br>
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mkarim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
