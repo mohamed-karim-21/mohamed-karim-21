@@ -38,7 +38,6 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **medkarim.pro@gmail.com**
 <br>
 <h2 style="color: blue" > 42 Cursus <h2>
-<br>
 <img src="https://badge42.herokuapp.com/api/stats/mkarim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42" />
 <br>
 
