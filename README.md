@@ -40,9 +40,9 @@ You can click the Preview link to take a look at your changes.
 <h2 style="color: blue" > 42 Cursus <h2>
 <img src="https://badge42.herokuapp.com/api/stats/mkarim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42" />
 <br>
+  <!--
   <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&white=true&login=mkarim" />
-<br>
-https://1337-readme.vercel.app/api/profile?cursus=42cursus&white=true&login=mkarim
+<br> -->
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
