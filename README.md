@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/skeet_cpp" target="blank"><img src="https://img.shields.io/twitter/follow/skeet_cpp?logo=twitter&style=for-the-badge" alt="skeet_cpp" /></a> </p>
 
-- 🔭 I’m currently working on **Libft Project**
+- 🔭 I’m currently working on **Get_Next_Line Project**
 
 - 🌱 I’m currently learning **42 cursus**
 
