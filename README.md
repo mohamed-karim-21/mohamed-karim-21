@@ -62,6 +62,6 @@ You can click the Preview link to take a look at your changes.
 </a>
 <br>
 <a href="https://github.com/skeet1">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=skeet1&show_icons=true&theme=dark&line_height=40" alt="skeet1's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=skeet1&show_icons=true&theme=gruvbox&line_height=40" alt="skeet1's github stats"/>
 </a>
 
