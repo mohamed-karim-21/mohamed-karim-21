@@ -44,16 +44,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&white=true&login=mkarim" />
 <br> -->
   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/karimskeet" target="blank"><img  style="background-color: black" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="karimskeet" height="30" width="40" /></a>
-<a href="https://twitter.com/skeet_cpp" target="blank"><img align="center" src="https://camo.githubusercontent.com/78177033dd771aae36f0c5924e15c067e603910458a6e944afb19a2c8e63a470/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076362f69636f6e732f747769747465722e737667" alt="skeet_cpp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mrmohamedkarim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrmohamedkarim" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16700290/karimskeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karimskeet" height="30" width="40" /></a>
- <a href="https://codeforces.com/profile/skeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="karimskeet" height="30" width="40" /></a>
-</p>
+
   
-<h1>Connect with me:</h1>
+<h3>Connect with me:</h3>
 
 <a href="https://github.com/skeet1" target="_blank">
   <img align="left" alt="github" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
@@ -70,6 +63,22 @@ You can click the Preview link to take a look at your changes.
 
 
 
+  
+ <h3 align="left">For more:</h3>
+<p align="left">
+  
+  
+<a href="https://codepen.io/karimskeet" target="blank"><img  style="background-color: black" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="karimskeet" height="30" width="40" /></a>
+
+
+<a href="https://stackoverflow.com/users/16700290/karimskeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karimskeet" height="30" width="40" /></a>
+  
+  
+ <a href="https://codeforces.com/profile/skeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="karimskeet" height="30" width="40" /></a>
+</p>
+  
+  
+  
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
