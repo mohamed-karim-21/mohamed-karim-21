@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 
   
 <a href="https://github.com/skeet1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeet1&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeet1&theme=gruvbox" />
 </a>
 <br>
 <a href="https://github.com/skeet1">
