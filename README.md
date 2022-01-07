@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **Fract-ol Project**
 
-- 🌱 I’m currently learning **42 cursus**
+- 🌱 I’m currently learning **REACT JS**
 
 - 💬 Ask me about **Anything**
 
