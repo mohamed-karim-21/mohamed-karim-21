@@ -39,6 +39,11 @@ You can click the Preview link to take a look at your changes.
 <h2 style="color: blue" > 42 Cursus <h2>
 <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/stats?cursusId=21&coalitionId=76" />
 <br>
+  
+<h2> style="color: blue" > ✅ 42 ProjectScore Badge! <h2>
+  
+<img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/stats?cursusId=21&coalitionId=76" />
+  
   <!--
   <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&white=true&login=mkarim" />
 <br> -->
