@@ -41,25 +41,23 @@ You can click the Preview link to take a look at your changes.
 <br>
   
 <h2 style="color: blue"> ✅ 42 ProjectScore Badge! <h2>
-  
-Copy-paste this into your markdown content, and that&aposs it. Simple!
 
-minitalk <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2485812" >
+Minitalk <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2485812" >
   <br>
   
-Exam Rank 02 <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2447167 ">
+Exam Rank 02 <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2447167">
   <br>
   
-Born2beroot <img src=" https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2432845">
+Born2beroot <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2432845">
   <br>
   
-get_next_line <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2406277 ">
+Get_next_line <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2406277">
   <br>
   
-ft_printf <img src=" https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2406491">
+ft_printf <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2406491">
   <br>
   
-Libft <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2395198 ">
+Libft <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2395198">
   <br>
   
   <!--
