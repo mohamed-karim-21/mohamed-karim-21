@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/stats?cursusId=21&coalitionId=76" />
 <br>
   
-<h2 style="color: blue"> ✅ 42 ProjectScore Badge! <h2>
+<h2 style="color: blue"> ✅ 42 ProjectScore <h2>
 
 Minitalk <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2485812" >
   <br>
