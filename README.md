@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
   
 <h2 style="color: blue"> ✅ 42 ProjectScore <h2>
 Push_swap <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2552462" >
-  <br>
+  
   <br>
   
 Minitalk <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2485812" >
