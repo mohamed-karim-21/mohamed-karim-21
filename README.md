@@ -45,6 +45,7 @@ Push_swap <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/
   
 Minitalk <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2485812" >
   <br>
+  <br>
   
 Exam Rank 02 <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2447167">
   <br>
