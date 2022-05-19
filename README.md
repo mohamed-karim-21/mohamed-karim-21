@@ -41,13 +41,13 @@ You can click the Preview link to take a look at your changes.
 <br>
   
 <h2 style="color: blue"> ✅ 42 ProjectScore <h2>
-minishell <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2587625" >
+minishell <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2590968" >
   <br>
   
-Philosophers  <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2587625" >
+Philosophers  <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2588891" >
   <br>
   
-Exam Rank 03 <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2587625" >
+Exam Rank 03 <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2588892" >
   <br>
   
 Fractol <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2587625" >
