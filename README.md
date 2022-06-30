@@ -38,7 +38,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 <h2 style="color: blue" > 42 Cursus <h2>
 <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/stats?cursusId=21&coalitionId=76" /> 
-<img src="https://badge.mediaplus.ma/darkgray/mkarim" />
 <br>
   
 <h2 style="color: blue"> ✅ 42 ProjectScore <h2>
