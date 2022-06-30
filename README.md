@@ -37,6 +37,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **mkarim@student.1337.ma**
 <br>
 <h2 style="color: blue" > 42 Cursus <h2>
+<!-- <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/stats?cursusId=21&coalitionId=76" /> -->
 <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/stats?cursusId=21&coalitionId=76" />
 <br>
   
