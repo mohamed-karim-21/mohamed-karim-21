@@ -41,6 +41,15 @@ You can click the Preview link to take a look at your changes.
 <br>
   
 <h2 style="color: blue"> ✅ 42 ProjectScore <h2>
+Exam Rank 04 <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2670956" >
+  <br>
+
+Netpractice <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2698460" >
+  <br>
+
+cub3d <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2670962" >
+  <br>
+
 minishell <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2590968" >
   <br>
   
