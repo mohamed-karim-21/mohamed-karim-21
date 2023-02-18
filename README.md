@@ -41,6 +41,13 @@ You can click the Preview link to take a look at your changes.
 <br>
   
 <h2 style="color: blue"> ✅ 42 ProjectScore <h2>
+  
+  webserv <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2916452" >
+  <br>
+  
+ ft_containers <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2974008" >
+  <br>
+  
 Exam Rank 04 <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2670956" >
   <br>
   
