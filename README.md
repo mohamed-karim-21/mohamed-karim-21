@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on <a target="_blank" href="https://cdn.intra.42.fr/pdf/pdf/72469/en.subject.pdf">**WebServ**</a>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **PHP && JS**
 
 - 💬 Ask me about **Anything**
 
