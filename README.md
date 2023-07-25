@@ -41,13 +41,16 @@ You can click the Preview link to take a look at your changes.
 <br>
   
 <h2 style="color: blue"> ✅ 42 ProjectScore <h2>
-    ft_transcendence <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/3192719" >
+
+  ft_transcendence <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/3192719" >
   <br>
-    Exam Rank 06 <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/3192722" >
+  
+  Exam Rank 06 <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/3192722" >
   <br>
     
   Inception <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2916454" >
   <br>
+  
   webserv <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/project/2916452" >
   <br>
   
