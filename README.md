@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **NEXTJS**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **C / C++ / JS / TYPESCRIPT / REACTJS / NEXTJS**
 
 - 📫 How to reach me **mkarim@student.1337.ma**
 <br>
