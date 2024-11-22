@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="left"> <a href="https://twitter.com/skeet_cpp" target="blank"><img src="https://img.shields.io/twitter/follow/skeet_cpp?logo=twitter&style=for-the-badge" alt="skeet_cpp" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mohamed_karim21" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed_karim21?logo=twitter" alt="Mohamed KARIM" /></a> </p>
 
 - 🌱 I’m currently learning **Golang**
 
