@@ -12,10 +12,10 @@
 </a>
 <br>
 - 👋 Hi, I’m @skeet1 <br>
-- 👀 I’m interested in Web Development <br>
-- 🌱 I’m currently learning ... <br>
-- 💞️ I’m looking to collaborate on ... <br>
-- 📫 How to reach me ... <br>
+- 👀 I’m interested in software development <br>
+- 🌱 I’m currently learning Golang <br>
+- 💞️ I’m looking to collaborate on SaaS projects <br>
+- 📫 How to reach me mohamed.karim <br>
 
 
 skeet1/skeet1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,11 +30,13 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on <a target="_blank" href="https://cdn.intra.42.fr/pdf/pdf/103034/en.subject.pdf">**ft_transcendence**</a>
 
-- 🌱 I’m currently learning **NEXTJS**
+- 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **C / C++ / JS / TYPESCRIPT / REACTJS / NEXTJS**
+- 💬 Ask me about **C | C++ | JS | TS | PHP | LARVEL | Golang**
 
-- 📫 How to reach me **mkarim@student.1337.ma**
+- 💞️ I’m looking to collaborate on **SaaS** projects <br>
+
+- 📫 How to reach me **mohamed.karim.jobs@gmail.com**
 <br>
 <h2 style="color: blue" > 42 Cursus <h2>
 <img src="https://badge42.vercel.app/api/v2/cl1m14me3023709josybyutgw/stats?cursusId=21&coalitionId=76" /> 
