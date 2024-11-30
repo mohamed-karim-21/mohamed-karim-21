@@ -24,9 +24,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Mohamed Karim</h1>
 <h3 align="center">Programmer | Developer | Learner | 1337 Student.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skeet1&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed kARIM" /> </p>
 
-
-<p align="left"> <a href="https://twitter.com/mohamed_karim21" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed_karim21?logo=twitter" alt="Mohamed KARIM" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/mohamed_karim21" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed_karim21?logo=twitter" alt="Mohamed KARIM" /></a> </p> -->
 
 - 🌱 I’m currently learning **Golang**
 
